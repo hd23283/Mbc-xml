@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Claude" generator-info-url="https://pixtv.com.br/programacaoo/">
+  <channel id="pixtv.com.br">
+    <display-name lang="pt">PIXTV</display-name>
+    <icon src="https://pixtv.com.br/wp-content/uploads/2023/05/logo.png" />
+  </channel>
+  <programme start="20260914000000 -0300" stop="20260914004500 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260914004500 -0300" stop="20260914060000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Madrugada PIXTV</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260914060000 -0300" stop="20260914083000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Kids</title>
+  </programme>
+  <programme start="20260914083000 -0300" stop="20260914090000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Rural – Reprise</title>
+  </programme>
+  <programme start="20260914090000 -0300" stop="20260914092300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260914092300 -0300" stop="20260914094600 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260914094600 -0300" stop="20260914101000 -0300" channel="pixtv.com.br">
+    <title lang="pt">BEN10</title>
+  </programme>
+  <programme start="20260914101000 -0300" stop="20260914103600 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260914103600 -0300" stop="20260914112400 -0300" channel="pixtv.com.br">
+    <title lang="pt">Mutante Rex</title>
+  </programme>
+  <programme start="20260914112400 -0300" stop="20260914130300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Notícias da Semana</title>
+  </programme>
+  <programme start="20260914130300 -0300" stop="20260914134800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260914134800 -0300" stop="20260914143300 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Riverdale</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260914143300 -0300" stop="20260914151800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260914151800 -0300" stop="20260914170800 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX – Tarde</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260914170800 -0300" stop="20260914172000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260914172000 -0300" stop="20260914173200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260914173200 -0300" stop="20260914174500 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260914174500 -0300" stop="20260914183000 -0300" channel="pixtv.com.br">
+    <title lang="pt">ClipShow Retrô</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260914183000 -0300" stop="20260914192500 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – MR. Robot</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260914192500 -0300" stop="20260914201000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260914201000 -0300" stop="20260914205000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – AO VIVO</title>
+  </programme>
+  <programme start="20260914205000 -0300" stop="20260914224000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260914224000 -0300" stop="20260914233000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planeta DOC</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260914233000 -0300" stop="20260914235900 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – Reprise</title>
+  </programme>
+  <programme start="20260914235900 -0300" stop="20260915004400 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260915004400 -0300" stop="20260915055900 -0300" channel="pixtv.com.br">
+    <title lang="pt">Madrugada PIXTV</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260915055900 -0300" stop="20260915082900 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Kids</title>
+  </programme>
+  <programme start="20260915082900 -0300" stop="20260915090900 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – Reprise</title>
+  </programme>
+  <programme start="20260915090900 -0300" stop="20260915093200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260915093200 -0300" stop="20260915095500 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260915095500 -0300" stop="20260915101900 -0300" channel="pixtv.com.br">
+    <title lang="pt">BEN10</title>
+  </programme>
+  <programme start="20260915101900 -0300" stop="20260915104500 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260915104500 -0300" stop="20260915113300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Mutante Rex</title>
+  </programme>
+  <programme start="20260915113300 -0300" stop="20260915130300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Notícias da Semana</title>
+  </programme>
+  <programme start="20260915130300 -0300" stop="20260915134800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260915134800 -0300" stop="20260915143300 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Riverdale</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260915143300 -0300" stop="20260915151800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260915151800 -0300" stop="20260915170800 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX – Tarde</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260915170800 -0300" stop="20260915172000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260915172000 -0300" stop="20260915173200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260915173200 -0300" stop="20260915174500 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260915174500 -0300" stop="20260915183000 -0300" channel="pixtv.com.br">
+    <title lang="pt">ClipShow Retrô</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260915183000 -0300" stop="20260915192500 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – MR. Robot</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260915192500 -0300" stop="20260915201000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260915201000 -0300" stop="20260915202700 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News FAST</title>
+  </programme>
+  <programme start="20260915202700 -0300" stop="20260915221700 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260915221700 -0300" stop="20260915225700 -0300" channel="pixtv.com.br">
+    <title lang="pt">Betto em Ação – Missão Restauração</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260915225700 -0300" stop="20260915231400 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News FAST – Reprise</title>
+  </programme>
+  <programme start="20260915231400 -0300" stop="20260915235900 -0300" channel="pixtv.com.br">
+    <title lang="pt">Programação PIXTV</title>
+  </programme>
+  <programme start="20260915235900 -0300" stop="20260916004400 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260916004400 -0300" stop="20260916055900 -0300" channel="pixtv.com.br">
+    <title lang="pt">Madrugada PIXTV</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260916055900 -0300" stop="20260916082900 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Kids</title>
+  </programme>
+  <programme start="20260916082900 -0300" stop="20260916084600 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News FAST – Reprise</title>
+  </programme>
+  <programme start="20260916084600 -0300" stop="20260916090900 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260916090900 -0300" stop="20260916093200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260916093200 -0300" stop="20260916095600 -0300" channel="pixtv.com.br">
+    <title lang="pt">BEN10</title>
+  </programme>
+  <programme start="20260916095600 -0300" stop="20260916104800 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260916104800 -0300" stop="20260916113600 -0300" channel="pixtv.com.br">
+    <title lang="pt">Mutante Rex</title>
+  </programme>
+  <programme start="20260916113600 -0300" stop="20260916130300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Notícias da Semana</title>
+  </programme>
+  <programme start="20260916130300 -0300" stop="20260916134800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260916134800 -0300" stop="20260916143300 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Riverdale</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260916143300 -0300" stop="20260916151800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260916151800 -0300" stop="20260916170800 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX – Tarde</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260916170800 -0300" stop="20260916172000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260916172000 -0300" stop="20260916173200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260916173200 -0300" stop="20260916174500 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260916174500 -0300" stop="20260916183000 -0300" channel="pixtv.com.br">
+    <title lang="pt">ClipShow Retrô</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260916183000 -0300" stop="20260916192500 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – MR. Robot</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260916192500 -0300" stop="20260916201000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260916201000 -0300" stop="20260916205000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – AO VIVO</title>
+  </programme>
+  <programme start="20260916205000 -0300" stop="20260916224000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260916224000 -0300" stop="20260916233000 -0300" channel="pixtv.com.br">
+    <title lang="pt">ON Stage</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260916233000 -0300" stop="20260917001000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – Reprise</title>
+  </programme>
+  <programme start="20260917001000 -0300" stop="20260917005500 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260917005500 -0300" stop="20260917061000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Madrugada PIXTV</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260917061000 -0300" stop="20260917084000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Kids</title>
+  </programme>
+  <programme start="20260917084000 -0300" stop="20260917092000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – Reprise</title>
+  </programme>
+  <programme start="20260917092000 -0300" stop="20260917094300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260917094300 -0300" stop="20260917095500 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260917095500 -0300" stop="20260917101900 -0300" channel="pixtv.com.br">
+    <title lang="pt">BEN10</title>
+  </programme>
+  <programme start="20260917101900 -0300" stop="20260917104500 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260917104500 -0300" stop="20260917113300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Mutante Rex</title>
+  </programme>
+  <programme start="20260917113300 -0300" stop="20260917130300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Notícias da Semana</title>
+  </programme>
+  <programme start="20260917130300 -0300" stop="20260917134800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260917134800 -0300" stop="20260917143300 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Riverdale</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260917143300 -0300" stop="20260917151800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260917151800 -0300" stop="20260917170800 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX – Tarde</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260917170800 -0300" stop="20260917172000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260917172000 -0300" stop="20260917173200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260917173200 -0300" stop="20260917174500 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260917174500 -0300" stop="20260917183000 -0300" channel="pixtv.com.br">
+    <title lang="pt">ClipShow Retrô</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260917183000 -0300" stop="20260917192500 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – MR. Robot</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260917192500 -0300" stop="20260917201000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260917201000 -0300" stop="20260917202700 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News FAST</title>
+  </programme>
+  <programme start="20260917202700 -0300" stop="20260917221700 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260917221700 -0300" stop="20260917230700 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planeta DOC</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260917230700 -0300" stop="20260917232400 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – Reprise</title>
+  </programme>
+  <programme start="20260917232400 -0300" stop="20260917235900 -0300" channel="pixtv.com.br">
+    <title lang="pt">Programação PIXTV</title>
+  </programme>
+  <programme start="20260917235900 -0300" stop="20260918004400 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260918004400 -0300" stop="20260918055900 -0300" channel="pixtv.com.br">
+    <title lang="pt">Madrugada PIXTV</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260918055900 -0300" stop="20260918082900 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Kids</title>
+  </programme>
+  <programme start="20260918082900 -0300" stop="20260918084600 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News FAST – Reprise</title>
+  </programme>
+  <programme start="20260918084600 -0300" stop="20260918090900 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260918090900 -0300" stop="20260918093200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260918093200 -0300" stop="20260918095600 -0300" channel="pixtv.com.br">
+    <title lang="pt">BEN10</title>
+  </programme>
+  <programme start="20260918095600 -0300" stop="20260918104800 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260918104800 -0300" stop="20260918113600 -0300" channel="pixtv.com.br">
+    <title lang="pt">Mutante Rex</title>
+  </programme>
+  <programme start="20260918113600 -0300" stop="20260918130300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Notícias da Semana</title>
+  </programme>
+  <programme start="20260918130300 -0300" stop="20260918134800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260918134800 -0300" stop="20260918143300 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Riverdale</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260918143300 -0300" stop="20260918151800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260918151800 -0300" stop="20260918170800 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX – Tarde</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260918170800 -0300" stop="20260918172000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260918172000 -0300" stop="20260918173200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260918173200 -0300" stop="20260918174500 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260918174500 -0300" stop="20260918183000 -0300" channel="pixtv.com.br">
+    <title lang="pt">ClipShow Retrô</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260918183000 -0300" stop="20260918192500 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – MR. Robot</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260918192500 -0300" stop="20260918201000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260918201000 -0300" stop="20260918205000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – AO VIVO</title>
+  </programme>
+  <programme start="20260918205000 -0300" stop="20260918224000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260918224000 -0300" stop="20260918232500 -0300" channel="pixtv.com.br">
+    <title lang="pt">ClipShow Retrô – Inédito</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260918232500 -0300" stop="20260918235900 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – Reprise</title>
+  </programme>
+  <programme start="20260918235900 -0300" stop="20260919004400 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260919004400 -0300" stop="20260919055900 -0300" channel="pixtv.com.br">
+    <title lang="pt">Madrugada PIXTV</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260919055900 -0300" stop="20260919082900 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Kids</title>
+  </programme>
+  <programme start="20260919082900 -0300" stop="20260919090900 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – Reprise</title>
+  </programme>
+  <programme start="20260919090900 -0300" stop="20260919093200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260919093200 -0300" stop="20260919095500 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260919095500 -0300" stop="20260919101900 -0300" channel="pixtv.com.br">
+    <title lang="pt">BEN10</title>
+  </programme>
+  <programme start="20260919101900 -0300" stop="20260919104500 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260919104500 -0300" stop="20260919110800 -0300" channel="pixtv.com.br">
+    <title lang="pt">Supa Strikas</title>
+  </programme>
+  <programme start="20260919110800 -0300" stop="20260919113200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Mutante Rex</title>
+  </programme>
+  <programme start="20260919113200 -0300" stop="20260919122200 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Saúde</title>
+  </programme>
+  <programme start="20260919122200 -0300" stop="20260919130300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Notícias da Semana</title>
+  </programme>
+  <programme start="20260919130300 -0300" stop="20260919134800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260919134800 -0300" stop="20260919143300 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Riverdale</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260919143300 -0300" stop="20260919151800 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260919151800 -0300" stop="20260919170800 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX – Tarde</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260919170800 -0300" stop="20260919172000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260919172000 -0300" stop="20260919173200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260919173200 -0300" stop="20260919174500 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260919174500 -0300" stop="20260919183000 -0300" channel="pixtv.com.br">
+    <title lang="pt">ClipShow Retrô</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260919183000 -0300" stop="20260919192500 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – MR. Robot</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260919192500 -0300" stop="20260919201000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260919201000 -0300" stop="20260919205000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – edição de Sábado</title>
+  </programme>
+  <programme start="20260919205000 -0300" stop="20260919213500 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – ANNE</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260919213500 -0300" stop="20260919222500 -0300" channel="pixtv.com.br">
+    <title lang="pt">ON Stage</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260919222500 -0300" stop="20260919231500 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planeta DOC</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260919231500 -0300" stop="20260920010500 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine PIX</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260920010500 -0300" stop="20260920015000 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260920015000 -0300" stop="20260920050400 -0300" channel="pixtv.com.br">
+    <title lang="pt">Madrugada PIXTV</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260920050400 -0300" stop="20260920073400 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Kids</title>
+  </programme>
+  <programme start="20260920073400 -0300" stop="20260920082400 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Saúde</title>
+  </programme>
+  <programme start="20260920082400 -0300" stop="20260920090400 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX News – edição de Sábado – Reprise</title>
+  </programme>
+  <programme start="20260920090400 -0300" stop="20260920093400 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIX Rural – Indédito</title>
+  </programme>
+  <programme start="20260920093400 -0300" stop="20260920095700 -0300" channel="pixtv.com.br">
+    <title lang="pt">Boris e Rufus</title>
+  </programme>
+  <programme start="20260920095700 -0300" stop="20260920102000 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planetorama</title>
+  </programme>
+  <programme start="20260920102000 -0300" stop="20260920104400 -0300" channel="pixtv.com.br">
+    <title lang="pt">BEN10</title>
+  </programme>
+  <programme start="20260920104400 -0300" stop="20260920111000 -0300" channel="pixtv.com.br">
+    <title lang="pt">O Show do Garfield</title>
+  </programme>
+  <programme start="20260920111000 -0300" stop="20260920113300 -0300" channel="pixtv.com.br">
+    <title lang="pt">Supa Strikas</title>
+  </programme>
+  <programme start="20260920113300 -0300" stop="20260920115700 -0300" channel="pixtv.com.br">
+    <title lang="pt">Mutante Rex</title>
+  </programme>
+  <programme start="20260920115700 -0300" stop="20260920125700 -0300" channel="pixtv.com.br">
+    <title lang="pt">Notícias da Semana</title>
+  </programme>
+  <programme start="20260920125700 -0300" stop="20260920133700 -0300" channel="pixtv.com.br">
+    <title lang="pt">Betto em Ação – Missão Restauração</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260920133700 -0300" stop="20260920152700 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine Pix – Especial</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260920152700 -0300" stop="20260920161200 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Lost</title>
+    <rating system="Brazil"><value>16</value></rating>
+  </programme>
+  <programme start="20260920161200 -0300" stop="20260920165700 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – Elementary</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260920165700 -0300" stop="20260920174200 -0300" channel="pixtv.com.br">
+    <title lang="pt">PIXTV Séries – ANNE</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260920174200 -0300" stop="20260920193200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine Pix – Especial</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260920193200 -0300" stop="20260920201200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Betto em Ação – Missão Restauração</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260920201200 -0300" stop="20260920204200 -0300" channel="pixtv.com.br">
+    <title lang="pt">ClipShow Retrô</title>
+  </programme>
+  <programme start="20260920204200 -0300" stop="20260920213200 -0300" channel="pixtv.com.br">
+    <title lang="pt">ON Stage</title>
+    <rating system="Brazil"><value>14</value></rating>
+  </programme>
+  <programme start="20260920213200 -0300" stop="20260920222200 -0300" channel="pixtv.com.br">
+    <title lang="pt">Planeta DOC</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+  <programme start="20260920222200 -0300" stop="20260920235400 -0300" channel="pixtv.com.br">
+    <title lang="pt">Cine Pix – Especial</title>
+    <rating system="Brazil"><value>12</value></rating>
+  </programme>
+</tv>
