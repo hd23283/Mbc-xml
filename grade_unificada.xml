@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Claude" generator-info-url="https://mbcbrasil.tv.br/canais/grade">
+  <channel id="tv3curitiba.tv.br">
+    <display-name lang="pt">TV3 Curitiba</display-name>
+    <icon src="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776133208960-o2l2f7f02f.png" />
+  </channel>
+  <programme start="20260913000000 -0300" stop="20260913060000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260913060000 -0300" stop="20260913083000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Documento Especial</title>
+  </programme>
+  <programme start="20260913083000 -0300" stop="20260913100000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Festival Disney</title>
+  </programme>
+  <programme start="20260913100000 -0300" stop="20260913110000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Terra Brasil</title>
+  </programme>
+  <programme start="20260913110000 -0300" stop="20260913120000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260913120000 -0300" stop="20260913140000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Jukebox TV</title>
+  </programme>
+  <programme start="20260913140000 -0300" stop="20260913153000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Super Séries</title>
+  </programme>
+  <programme start="20260913153000 -0300" stop="20260913210000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Sala de Cinema</title>
+  </programme>
+  <programme start="20260913210000 -0300" stop="20260913230000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260913230000 -0300" stop="20260913233000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Resgate 193</title>
+  </programme>
+  <programme start="20260913233000 -0300" stop="20260914000000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Super Séries</title>
+  </programme>
+  <programme start="20260914000000 -0300" stop="20260914010000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Jornada nas Estrelas</title>
+  </programme>
+  <programme start="20260914010000 -0300" stop="20260914020000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Os Pioneiros</title>
+  </programme>
+  <programme start="20260914020000 -0300" stop="20260914060000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cine Nostalgia</title>
+  </programme>
+  <programme start="20260914060000 -0300" stop="20260914070000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Documento Especial</title>
+  </programme>
+  <programme start="20260914070000 -0300" stop="20260914123000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Clube da Criança</title>
+  </programme>
+  <programme start="20260914123000 -0300" stop="20260914130000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260914130000 -0300" stop="20260914132500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260914132500 -0300" stop="20260914134500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Paraná Histórica</title>
+  </programme>
+  <programme start="20260914134500 -0300" stop="20260914140000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Coleção em Ação</title>
+  </programme>
+  <programme start="20260914140000 -0300" stop="20260914150000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260914150000 -0300" stop="20260914160000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Lois &amp; Clark</title>
+  </programme>
+  <programme start="20260914160000 -0300" stop="20260914193000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260914193000 -0300" stop="20260914203000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Por Dentro da Canção</title>
+  </programme>
+  <programme start="20260914203000 -0300" stop="20260914210000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260914210000 -0300" stop="20260914214500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">CHiPs</title>
+  </programme>
+  <programme start="20260914214500 -0300" stop="20260914223000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">O Homem que Veio do Céu</title>
+  </programme>
+  <programme start="20260914223000 -0300" stop="20260914231500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">ER - Plantão Médico</title>
+  </programme>
+  <programme start="20260914231500 -0300" stop="20260915000000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">MacGyver</title>
+  </programme>
+  <programme start="20260915000000 -0300" stop="20260915010000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Jornada nas Estrelas</title>
+  </programme>
+  <programme start="20260915010000 -0300" stop="20260915020000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Os Pioneiros</title>
+  </programme>
+  <programme start="20260915020000 -0300" stop="20260915060000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cine Nostalgia</title>
+  </programme>
+  <programme start="20260915060000 -0300" stop="20260915070000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Documento Especial</title>
+  </programme>
+  <programme start="20260915070000 -0300" stop="20260915120000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Clube da Criança</title>
+  </programme>
+  <programme start="20260915120000 -0300" stop="20260915123000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260915123000 -0300" stop="20260915130000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260915130000 -0300" stop="20260915133000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Paraná Histórica</title>
+  </programme>
+  <programme start="20260915133000 -0300" stop="20260915140000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Coleção em Ação</title>
+  </programme>
+  <programme start="20260915140000 -0300" stop="20260915150000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260915150000 -0300" stop="20260915160000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Lois &amp; Clark</title>
+  </programme>
+  <programme start="20260915160000 -0300" stop="20260915193000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260915193000 -0300" stop="20260915200000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Por Dentro da Canção</title>
+  </programme>
+  <programme start="20260915200000 -0300" stop="20260915203000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">CHiPs</title>
+  </programme>
+  <programme start="20260915203000 -0300" stop="20260915210000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260915210000 -0300" stop="20260915220000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">O Homem que veio do Céu</title>
+  </programme>
+  <programme start="20260915220000 -0300" stop="20260915230000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">ER - Plantão Médico</title>
+  </programme>
+  <programme start="20260915230000 -0300" stop="20260916000000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">MacGyver</title>
+  </programme>
+  <programme start="20260916000000 -0300" stop="20260916010000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Jornada nas Estrelas</title>
+  </programme>
+  <programme start="20260916010000 -0300" stop="20260916020000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Os Pioneiros</title>
+  </programme>
+  <programme start="20260916020000 -0300" stop="20260916060000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cine Nostalgia</title>
+  </programme>
+  <programme start="20260916060000 -0300" stop="20260916070000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Documento Especial</title>
+  </programme>
+  <programme start="20260916070000 -0300" stop="20260916120000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Clube da Criança</title>
+  </programme>
+  <programme start="20260916120000 -0300" stop="20260916123000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260916123000 -0300" stop="20260916130000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260916130000 -0300" stop="20260916133000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Paraná Histórica</title>
+  </programme>
+  <programme start="20260916133000 -0300" stop="20260916140000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Coleção em Ação</title>
+  </programme>
+  <programme start="20260916140000 -0300" stop="20260916150000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260916150000 -0300" stop="20260916160000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Lois &amp; Clark</title>
+  </programme>
+  <programme start="20260916160000 -0300" stop="20260916193000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260916193000 -0300" stop="20260916200000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Por Dentro da Canção</title>
+  </programme>
+  <programme start="20260916200000 -0300" stop="20260916203000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Bate Papo Brasil</title>
+  </programme>
+  <programme start="20260916203000 -0300" stop="20260916210000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260916210000 -0300" stop="20260916214500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">ChiPs</title>
+  </programme>
+  <programme start="20260916214500 -0300" stop="20260916223000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">O Homem que veio do Céu</title>
+  </programme>
+  <programme start="20260916223000 -0300" stop="20260916231500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">ER - Plantão Médico</title>
+  </programme>
+  <programme start="20260916231500 -0300" stop="20260917000000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">MacGyver</title>
+  </programme>
+  <programme start="20260917000000 -0300" stop="20260917010000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Jornada nas Estrelas</title>
+  </programme>
+  <programme start="20260917010000 -0300" stop="20260917020000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Os Pioneiros</title>
+  </programme>
+  <programme start="20260917020000 -0300" stop="20260917060000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cine Nostalgia</title>
+  </programme>
+  <programme start="20260917060000 -0300" stop="20260917070000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Documento Especial</title>
+  </programme>
+  <programme start="20260917070000 -0300" stop="20260917120000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Clube da Criança</title>
+  </programme>
+  <programme start="20260917120000 -0300" stop="20260917123000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260917123000 -0300" stop="20260917130000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260917130000 -0300" stop="20260917133000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Paraná Histórica</title>
+  </programme>
+  <programme start="20260917133000 -0300" stop="20260917140000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Coleção em Ação</title>
+  </programme>
+  <programme start="20260917140000 -0300" stop="20260917150000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260917150000 -0300" stop="20260917160000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Lois &amp; Clark</title>
+  </programme>
+  <programme start="20260917160000 -0300" stop="20260917193000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260917193000 -0300" stop="20260917200000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Por Dentro da Canção</title>
+  </programme>
+  <programme start="20260917200000 -0300" stop="20260917203000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">CHiPs</title>
+  </programme>
+  <programme start="20260917203000 -0300" stop="20260917210000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260917210000 -0300" stop="20260917220000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">O Homem que veio do Céu</title>
+  </programme>
+  <programme start="20260917220000 -0300" stop="20260917230000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">ER - Plantão Médico</title>
+  </programme>
+  <programme start="20260917230000 -0300" stop="20260918000000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">MacGyver</title>
+  </programme>
+  <programme start="20260918000000 -0300" stop="20260918010000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Jornada nas Estrelas</title>
+  </programme>
+  <programme start="20260918010000 -0300" stop="20260918020000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Os Pioneiros</title>
+  </programme>
+  <programme start="20260918020000 -0300" stop="20260918060000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cine Nostalgia</title>
+  </programme>
+  <programme start="20260918060000 -0300" stop="20260918070000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Documento Especial</title>
+  </programme>
+  <programme start="20260918070000 -0300" stop="20260918123000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Clube da Criança</title>
+  </programme>
+  <programme start="20260918123000 -0300" stop="20260918130000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260918130000 -0300" stop="20260918132500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260918132500 -0300" stop="20260918135500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Paraná Histórica</title>
+  </programme>
+  <programme start="20260918135500 -0300" stop="20260918141000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Coleção em Ação</title>
+  </programme>
+  <programme start="20260918141000 -0300" stop="20260918150000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260918150000 -0300" stop="20260918160000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Lois &amp; Clark</title>
+  </programme>
+  <programme start="20260918160000 -0300" stop="20260918193000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260918193000 -0300" stop="20260918203000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Por Dentro da Canção</title>
+  </programme>
+  <programme start="20260918203000 -0300" stop="20260918205500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260918205500 -0300" stop="20260918213000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Adri Ferraz</title>
+  </programme>
+  <programme start="20260918213000 -0300" stop="20260918215500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">O Homem que veio do Céu</title>
+  </programme>
+  <programme start="20260918215500 -0300" stop="20260918222500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Golpe de Mestre</title>
+  </programme>
+  <programme start="20260918222500 -0300" stop="20260918231500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">ER - Plantão Médico</title>
+  </programme>
+  <programme start="20260918231500 -0300" stop="20260919000000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">MacGyver</title>
+  </programme>
+  <programme start="20260919000000 -0300" stop="20260919020000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Operação Policial</title>
+  </programme>
+  <programme start="20260919020000 -0300" stop="20260919040000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260919040000 -0300" stop="20260919063000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cine Retrô</title>
+  </programme>
+  <programme start="20260919063000 -0300" stop="20260919130000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260919130000 -0300" stop="20260919132500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260919132500 -0300" stop="20260919140000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Tunadas</title>
+  </programme>
+  <programme start="20260919140000 -0300" stop="20260919143000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Automania</title>
+  </programme>
+  <programme start="20260919143000 -0300" stop="20260919150000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Torneios Brasil</title>
+  </programme>
+  <programme start="20260919150000 -0300" stop="20260919170000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Festival Hanna Barbera</title>
+  </programme>
+  <programme start="20260919170000 -0300" stop="20260919203000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260919203000 -0300" stop="20260919205500 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Horário Eleitoral Gratuito</title>
+  </programme>
+  <programme start="20260919205500 -0300" stop="20260919220000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Happy Hour</title>
+  </programme>
+  <programme start="20260919220000 -0300" stop="20260920000000 -0300" channel="tv3curitiba.tv.br">
+    <title lang="pt">Do Fundo do Baú</title>
+  </programme>
+  <channel id="redembcbrasil.tv.br">
+    <display-name lang="pt">Rede MBC Brasil</display-name>
+    <icon src="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png" />
+  </channel>
+  <programme start="20260913000000 -0300" stop="20260913060000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Madrugada no Cinema</title>
+  </programme>
+  <programme start="20260913060000 -0300" stop="20260913093000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Profissão Natureza</title>
+  </programme>
+  <programme start="20260913093000 -0300" stop="20260913104500 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Santa Missa</title>
+    <live />
+  </programme>
+  <programme start="20260913104500 -0300" stop="20260913111000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">ThunderCats</title>
+  </programme>
+  <programme start="20260913111000 -0300" stop="20260913113500 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Família Zoreia</title>
+  </programme>
+  <programme start="20260913113500 -0300" stop="20260913120000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Câmera Brasil</title>
+  </programme>
+  <programme start="20260913120000 -0300" stop="20260913130000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Amigos do Teodoro &amp; Sampaio</title>
+  </programme>
+  <programme start="20260913130000 -0300" stop="20260913140000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Jukebox TV</title>
+  </programme>
+  <programme start="20260913140000 -0300" stop="20260913143000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Automania</title>
+  </programme>
+  <programme start="20260913143000 -0300" stop="20260913190000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Super Séries</title>
+  </programme>
+  <programme start="20260913190000 -0300" stop="20260913200000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Bate Papo Brasil</title>
+  </programme>
+  <programme start="20260913200000 -0300" stop="20260913210000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Gente de Expressão</title>
+  </programme>
+  <programme start="20260913210000 -0300" stop="20260913230000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260913230000 -0300" stop="20260914000000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sessão Mr Bean</title>
+  </programme>
+  <programme start="20260914000000 -0300" stop="20260914060000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Super Séries</title>
+  </programme>
+  <programme start="20260914060000 -0300" stop="20260914113000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Clube da Criança</title>
+  </programme>
+  <programme start="20260914113000 -0300" stop="20260914130000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Programa 190</title>
+    <live />
+  </programme>
+  <programme start="20260914130000 -0300" stop="20260914133000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260914130000 -0300" stop="20260914133000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Jornal do Boris</title>
+    <live />
+  </programme>
+  <programme start="20260914133000 -0300" stop="20260914143000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sobre Isso</title>
+  </programme>
+  <programme start="20260914143000 -0300" stop="20260914160000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260914160000 -0300" stop="20260914180000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260914180000 -0300" stop="20260914190000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Milk News</title>
+  </programme>
+  <programme start="20260914190000 -0300" stop="20260914200000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Repórter Brasil</title>
+    <live />
+  </programme>
+  <programme start="20260914200000 -0300" stop="20260914210000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">DuckTales</title>
+  </programme>
+  <programme start="20260914210000 -0300" stop="20260914213000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Teatro Gil e Cris</title>
+  </programme>
+  <programme start="20260914213000 -0300" stop="20260914220000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Família Zoreia</title>
+  </programme>
+  <programme start="20260914220000 -0300" stop="20260915000000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260915000000 -0300" stop="20260915060000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Super Séries</title>
+  </programme>
+  <programme start="20260915060000 -0300" stop="20260915113000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Clube da Criança</title>
+  </programme>
+  <programme start="20260915113000 -0300" stop="20260915130000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Programa 190</title>
+    <live />
+  </programme>
+  <programme start="20260915130000 -0300" stop="20260915133000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260915133000 -0300" stop="20260915140000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Jornal do Boris</title>
+    <live />
+  </programme>
+  <programme start="20260915140000 -0300" stop="20260915150000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sobre Isso</title>
+  </programme>
+  <programme start="20260915150000 -0300" stop="20260915160000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260915160000 -0300" stop="20260915180000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260915180000 -0300" stop="20260915190000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Milk News</title>
+  </programme>
+  <programme start="20260915190000 -0300" stop="20260915200000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Repórter Brasil</title>
+    <live />
+  </programme>
+  <programme start="20260915200000 -0300" stop="20260915203000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Câmera Brasil</title>
+  </programme>
+  <programme start="20260915203000 -0300" stop="20260915210000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">DuckTales</title>
+  </programme>
+  <programme start="20260915210000 -0300" stop="20260915213000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Teatro Gil e Cris</title>
+  </programme>
+  <programme start="20260915213000 -0300" stop="20260915220000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Família Zoreia</title>
+  </programme>
+  <programme start="20260915220000 -0300" stop="20260916000000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260916000000 -0300" stop="20260916060000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Super Séries</title>
+  </programme>
+  <programme start="20260916060000 -0300" stop="20260916113000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Clube da Criança</title>
+  </programme>
+  <programme start="20260916113000 -0300" stop="20260916130000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Programa 190</title>
+    <live />
+  </programme>
+  <programme start="20260916130000 -0300" stop="20260916133000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260916130000 -0300" stop="20260916133000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Jornal do Boris</title>
+    <live />
+  </programme>
+  <programme start="20260916133000 -0300" stop="20260916143000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sobre Isso</title>
+  </programme>
+  <programme start="20260916143000 -0300" stop="20260916160000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260916160000 -0300" stop="20260916180000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260916180000 -0300" stop="20260916190000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Milk News</title>
+  </programme>
+  <programme start="20260916190000 -0300" stop="20260916200000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Repórter Brasil</title>
+    <live />
+  </programme>
+  <programme start="20260916200000 -0300" stop="20260916210000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Bate Papo Brasil</title>
+  </programme>
+  <programme start="20260916210000 -0300" stop="20260916213000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Programa Casual</title>
+  </programme>
+  <programme start="20260916213000 -0300" stop="20260916220000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Família Zoreia</title>
+  </programme>
+  <programme start="20260916220000 -0300" stop="20260917000000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260917000000 -0300" stop="20260917060000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Super Séries</title>
+  </programme>
+  <programme start="20260917060000 -0300" stop="20260917113000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Clube da Criança</title>
+  </programme>
+  <programme start="20260917113000 -0300" stop="20260917130000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Programa 190</title>
+    <live />
+  </programme>
+  <programme start="20260917130000 -0300" stop="20260917133000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260917130000 -0300" stop="20260917133000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Jornal do Boris</title>
+    <live />
+  </programme>
+  <programme start="20260917133000 -0300" stop="20260917143000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sobre Isso</title>
+  </programme>
+  <programme start="20260917143000 -0300" stop="20260917160000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260917160000 -0300" stop="20260917180000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260917180000 -0300" stop="20260917190000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Milk News</title>
+  </programme>
+  <programme start="20260917190000 -0300" stop="20260917200000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Repórter Brasil</title>
+    <live />
+  </programme>
+  <programme start="20260917200000 -0300" stop="20260917210000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">DuckTales</title>
+  </programme>
+  <programme start="20260917210000 -0300" stop="20260917213000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Teatro Gil e Cris</title>
+  </programme>
+  <programme start="20260917213000 -0300" stop="20260917220000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Família Zoreia</title>
+  </programme>
+  <programme start="20260917220000 -0300" stop="20260918000000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260918000000 -0300" stop="20260918060000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Super Séries</title>
+  </programme>
+  <programme start="20260918060000 -0300" stop="20260918113000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Clube da Criança</title>
+  </programme>
+  <programme start="20260918113000 -0300" stop="20260918130000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Programa 190</title>
+    <live />
+  </programme>
+  <programme start="20260918130000 -0300" stop="20260918133000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Mesa Redonda</title>
+    <live />
+  </programme>
+  <programme start="20260918130000 -0300" stop="20260918133000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Jornal do Boris</title>
+    <live />
+  </programme>
+  <programme start="20260918133000 -0300" stop="20260918143000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sobre Isso</title>
+  </programme>
+  <programme start="20260918143000 -0300" stop="20260918160000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Sessão Animada</title>
+  </programme>
+  <programme start="20260918160000 -0300" stop="20260918180000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260918180000 -0300" stop="20260918190000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Milk News</title>
+  </programme>
+  <programme start="20260918190000 -0300" stop="20260918200000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Repórter Brasil</title>
+    <live />
+  </programme>
+  <programme start="20260918200000 -0300" stop="20260918210000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Adri Ferraz</title>
+  </programme>
+  <programme start="20260918210000 -0300" stop="20260918213000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Teatro Gil e Cris</title>
+  </programme>
+  <programme start="20260918213000 -0300" stop="20260919000000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Do Fundo do Baú</title>
+  </programme>
+  <programme start="20260919000000 -0300" stop="20260919020000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cine Terror</title>
+  </programme>
+  <programme start="20260919020000 -0300" stop="20260919040000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Festival Hanna Barbera</title>
+  </programme>
+  <programme start="20260919040000 -0300" stop="20260919060000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260919060000 -0300" stop="20260919120000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Documento Especial</title>
+  </programme>
+  <programme start="20260919120000 -0300" stop="20260919140000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Jukebox TV</title>
+  </programme>
+  <programme start="20260919140000 -0300" stop="20260919143000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Automania</title>
+  </programme>
+  <programme start="20260919143000 -0300" stop="20260919153000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">De Malas Prontas com Neri</title>
+  </programme>
+  <programme start="20260919153000 -0300" stop="20260919170000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Do Fundo do Baú</title>
+  </programme>
+  <programme start="20260919170000 -0300" stop="20260919180000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Jones Dark</title>
+    <live />
+  </programme>
+  <programme start="20260919180000 -0300" stop="20260919183000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Paraná Histórica</title>
+  </programme>
+  <programme start="20260919183000 -0300" stop="20260919190000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Paraná Notícias</title>
+  </programme>
+  <programme start="20260919190000 -0300" stop="20260919193000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Repórter Brasil</title>
+    <live />
+  </programme>
+  <programme start="20260919193000 -0300" stop="20260919210000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Cinemania</title>
+  </programme>
+  <programme start="20260919210000 -0300" stop="20260919213000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Happy Hour</title>
+  </programme>
+  <programme start="20260919213000 -0300" stop="20260919220000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Câmera Brasil</title>
+  </programme>
+  <programme start="20260919220000 -0300" stop="20260920000000 -0300" channel="redembcbrasil.tv.br">
+    <title lang="pt">Ritmo</title>
+  </programme>
+</tv>
