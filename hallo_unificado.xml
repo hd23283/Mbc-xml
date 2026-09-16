@@ -1,0 +1,2333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="HALLO!" generator-info-url="http://www.hallo.tv.br">
+  <channel id="9">
+    <display-name lang="pt">Hallo Brasil</display-name>
+    <icon src="https://hallo.tv.br/icons/brasil.png" />
+    <url>http://www.hallo.tv.br</url>
+  </channel>
+  <programme start="20260915112420 -0300" stop="20260915121038 -0300" channel="9">
+    <title lang="pt">O Sequestro de Vitor</title>
+    <desc lang="pt">Depois da venda da escola Blessed, Vitor tenta recomeçar a sua vida e tira férias na casa de seu primo. Chegando lá, Vitor some misteriosamente sem deixar nenhum vestígio. Os moradores da casa, preocupados, resolvem procurar o amigo.</desc>
+    <credits>
+      <director>Tininha Araújo</director>
+      <actor>Fernando Sampaio,Igor Cotrim,Dorgival Júnior,Laíze Câmara,Letícia Pedro,Bruna Rauta,Maria Bonze,Larissa Maria</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="pt">Família</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260915230111 -0300" stop="20260916002951 -0300" channel="9">
+    <title lang="pt">Entre Mulheres</title>
+    <desc lang="pt">Um grupo de mulheres em uma comunidade menonita isolada luta para reconciliar sua realidade com sua fé após uma série de agressões sexuais cometidas pelos homens da colônia.</desc>
+    <credits>
+      <director>Sarah Polley</director>
+      <actor>Rooney Mara,Claire Foy,Jessie Buckley,Judith Ivey,Ben Whishaw,Sheila McCarthy,Kate Hallett,Michelle McLeod</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>1.71</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260916074813 -0300" stop="20260916083431 -0300" channel="9">
+    <title lang="pt">O Sequestro de Vitor</title>
+    <desc lang="pt">Depois da venda da escola Blessed, Vitor tenta recomeçar a sua vida e tira férias na casa de seu primo. Chegando lá, Vitor some misteriosamente sem deixar nenhum vestígio. Os moradores da casa, preocupados, resolvem procurar o amigo.</desc>
+    <credits>
+      <director>Tininha Araújo</director>
+      <actor>Fernando Sampaio,Igor Cotrim,Dorgival Júnior,Laíze Câmara,Letícia Pedro,Bruna Rauta,Maria Bonze,Larissa Maria</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="pt">Família</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260916144833 -0300" stop="20260916161718 -0300" channel="9">
+    <title lang="pt">Magal e os Formigas</title>
+    <desc lang="pt">João é um aposentado viciado em trabalho e loteria. Após uma espécie de delírio, João começa a receber visitas sobrenaturais do músico Sidney Magal.</desc>
+    <credits>
+      <director>Newton Cannito</director>
+      <actor>Sidney Magal,Norival Rizzo,Imara Reis,Nicolas Trevijano,Zé Carlos Machado,Ester Laccava,Márcio Américo,Riba Carlovich</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.8</value>
+    </star-rating>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260916161719 -0300" stop="20260916173959 -0300" channel="9">
+    <title lang="pt">Federal</title>
+    <desc lang="pt">Um perigoso traficante age em Brasília, Capital Federal. Para pegá-lo, a polícia fará o que for preciso.</desc>
+    <credits>
+      <director>Erik de Castro</director>
+      <actor>Carlos Alberto Riccelli,Selton Mello,Christovam Netto,Cesario Augusto,Eduardo Dusek,Carolina Gómez,Michael Madsen,Adriano Siri</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Ação, Mistério</category>
+    <star-rating system="IMdb">
+      <value>2.1565</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260916181910 -0300" stop="20260916195102 -0300" channel="9">
+    <title lang="pt">Ó Paí, Ó</title>
+    <desc lang="pt">Acompanhe a vida dos moradores de um animado cortiço do Pelourinho, no último dia de Carnaval.</desc>
+    <credits>
+      <director>Monique Gardenberg</director>
+      <actor>Lázaro Ramos,Dira Paes,Wagner Moura,Stênio Garcia,Luciana Souza,Emanuelle Araújo,Érico Brás,Tânia Toko</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Música, Comédia</category>
+    <star-rating system="IMdb">
+      <value>3.483</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260916195103 -0300" stop="20260916210631 -0300" channel="9">
+    <title lang="pt">Portaria 243</title>
+    <desc lang="pt">Paulo é um porteiro que sonha em ser músico e vê a chance de realizar seu desejo quando conhece um cantor famoso.</desc>
+    <credits>
+      <director>Pablo Loureiros</director>
+      <actor>Renan Monteiro,Júlia Fajardo,Gabriel Sanches,Roberto Rowntree,Daniel Bauerfeldt,Ana Pérola,Edson Branco,Roberto Monzo</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Comédia, Drama</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260916210631 -0300" stop="20260916223734 -0300" channel="9">
+    <title lang="pt">Verônica</title>
+    <desc lang="pt">Verônica é professora e decide levar Leandro, um aluno de oito anos, para casa após ninguém buscá-lo. Ao chegar no morro, encontra a polícia e muito tumulto.</desc>
+    <credits>
+      <director>Maurício Farias</director>
+      <actor>Andréa Beltrão,Marco Ricca,Matheus de Sá,Giulio Lopes,Andréa Dantas,Patrícia Selonik,Jorge Lucas,Thogun Teixeira</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>3.55</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260917002623 -0300" stop="20260917011241 -0300" channel="9">
+    <title lang="pt">O Sequestro de Vitor</title>
+    <desc lang="pt">Depois da venda da escola Blessed, Vitor tenta recomeçar a sua vida e tira férias na casa de seu primo.</desc>
+    <credits>
+      <director>Tininha Araújo</director>
+      <actor>Fernando Sampaio,Igor Cotrim,Dorgival Júnior,Laíze Câmara,Letícia Pedro,Bruna Rauta,Maria Bonze,Larissa Maria</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="pt">Família</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260917055925 -0300" stop="20260917072917 -0300" channel="9">
+    <title lang="pt">A Noa - A Nova Onda Apocalipse</title>
+    <desc lang="pt">O mundo sofre uma nova pandemia. Para ficar imune, é necessário ir para um local seguro em um trem que só alguns privilegiados têm crédito para conseguir o bilhete.</desc>
+    <credits>
+      <director>Marcus Dartagnãn</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pt">Drama</category>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260917072917 -0300" stop="20260917085446 -0300" channel="9">
+    <title lang="pt">Além da Paixão</title>
+    <desc lang="pt">Fernanda, uma mulher casada de classe média, envolve-se com Miguel, um travesti e garoto de programa, após tê-lo atropelado.</desc>
+    <credits>
+      <director>Bruno Barreto</director>
+      <actor>Regina Duarte,Paulo Castelli,Flávio Galvão,Patricio Bisso,Felipe Martins,Ivan Setta,Maria Helena Dias,Walter Forster</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="pt">Romance, Drama</category>
+    <star-rating system="IMdb">
+      <value>2.3125</value>
+    </star-rating>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20260917085446 -0300" stop="20260917103756 -0300" channel="9">
+    <title lang="pt">Cabeça a Prêmio</title>
+    <desc lang="pt">Três histórias se entrecruzam numa fronteira entre Brasil, Paraguai e Bolívia: um criador de gado, sua filha e um pistoleiro.</desc>
+    <credits>
+      <director>Marco Ricca</director>
+      <actor>Fúlvio Stefanini,Alice Braga,Daniel Hendler,Eduardo Moscovis,Cássio Gabus Mendes,Otávio Müller,Via Negromonte,Ana Maria Braga</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>1.5</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260917103756 -0300" stop="20260917115718 -0300" channel="9">
+    <title lang="pt">EAS: Esquadrão Antissequestro</title>
+    <desc lang="pt">Terroristas sequestram a filha de um jogador de futebol e planejam explodir o Maracanã durante a Copa do Mundo.</desc>
+    <credits>
+      <director>Marcus Dartagnãn</director>
+      <actor>Murilo Rosa,Humberto Martins,Carol Castro,Roney Villela,Janine Salles,Renato Góes,Lorena Comparato,Júnior Lisboa</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Crime, Drama, Ação</category>
+    <star-rating system="IMdb">
+      <value>2.95</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260917115718 -0300" stop="20260917131446 -0300" channel="9">
+    <title lang="pt">Entrando Numa Roubada</title>
+    <desc lang="pt">Vitor ganha um concurso de roteiros e busca antigos colegas atores para produzir um filme com o prêmio.</desc>
+    <credits>
+      <director>André Moraes</director>
+      <actor>Lúcio Mauro Filho,Júlio Andrade,Deborah Secco,Bruno Torres,Marcos Veras,Ana Carolina Machado,Tonico Pereira,Aramis Trindade</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Drama, Ação, Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.6</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260917131447 -0300" stop="20260917143727 -0300" channel="9">
+    <title lang="pt">Federal</title>
+    <desc lang="pt">Um perigoso traficante age em Brasília, Capital Federal. Para pegá-lo, a polícia fará o que for preciso.</desc>
+    <credits>
+      <director>Erik de Castro</director>
+      <actor>Carlos Alberto Riccelli,Selton Mello,Christovam Netto,Cesario Augusto,Eduardo Dusek,Carolina Gómez,Michael Madsen,Adriano Siri</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Ação, Mistério</category>
+    <star-rating system="IMdb">
+      <value>2.1565</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260917143728 -0300" stop="20260917161932 -0300" channel="9">
+    <title lang="pt">Luzia Homem</title>
+    <desc lang="pt">Após presenciar o assassinato dos pais, Luzia é criada por um vaqueiro e adota os costumes masculinos do sertão.</desc>
+    <credits>
+      <director>Fábio Barreto</director>
+      <actor>Claudia Ohana,José de Abreu,Thales Pan Chacon,Luiza Falcão,Ruy Polanah,Chico Díaz,Gilson Moura,Ednardo</actor>
+    </credits>
+    <date>1988</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>2.143</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260917161932 -0300" stop="20260917173829 -0300" channel="9">
+    <title lang="pt">Jogo de Xadrez</title>
+    <desc lang="pt">Mina foi presa após um crime de corrupção. O mandante, senador Franco, usa sua influência para mantê-la presa e abafar o caso.</desc>
+    <credits>
+      <director>Luis Antonio Pereira</director>
+      <actor>Priscila Fantin,Carla Marins,Antonio Calloni,Tuca Andrada,Luana Xavier,Cintia Felício,Salvatore Giuliano,Fábio Nascimento</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Drama, Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>2.45</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260917192035 -0300" stop="20260917204920 -0300" channel="9">
+    <title lang="pt">Magal e os Formigas</title>
+    <desc lang="pt">João é um aposentado viciado em trabalho e loteria. Após um delírio, começa a receber visitas sobrenaturais de Sidney Magal.</desc>
+    <credits>
+      <director>Newton Cannito</director>
+      <actor>Sidney Magal,Norival Rizzo,Imara Reis,Nicolas Trevijano,Zé Carlos Machado,Ester Laccava,Márcio Américo,Riba Carlovich</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.8</value>
+    </star-rating>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260917204921 -0300" stop="20260917223327 -0300" channel="9">
+    <title lang="pt">Menino do Rio</title>
+    <desc lang="pt">Ricardo, um surfista carioca, envolve-se com uma garota rica da alta sociedade que guarda um segredo sobre o seu passado.</desc>
+    <credits>
+      <director>Antônio Calmon</director>
+      <actor>André De Biase,Cláudia Magno,Ricardo Graça Mello,Sérgio Mallandro,Cissa Guimarães,Claudia Ohana,Adriano Reys,Evandro Mesquita</actor>
+    </credits>
+    <date>1982</date>
+    <category lang="pt">Drama, Aventura</category>
+    <star-rating system="IMdb">
+      <value>3.15</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260917223328 -0300" stop="20260918001131 -0300" channel="9">
+    <title lang="pt">Meu Pé de Laranja Lima</title>
+    <desc lang="pt">Zezé, um garoto de oito anos, tem o costume de conversar com um pé de laranja lima no quintal de casa e conhece Portuga, que se torna seu melhor amigo.</desc>
+    <credits>
+      <director>Marcos Bernstein</director>
+      <actor>João Guilherme Ávila,José de Abreu,Caco Ciocler,Eduardo Dascar,Fernanda Vianna,Emiliano Queiroz,Julia de Victa,Tino Gomes</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Drama,Família</category>
+    <star-rating system="IMdb">
+      <value>3.7</value>
+    </star-rating>
+    <rating>
+      <value>10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20260918001131 -0300" stop="20260918014234 -0300" channel="9">
+    <title lang="pt">Verônica</title>
+    <desc lang="pt">Verônica é professora e decide levar Leandro, um aluno de oito anos, para casa após ninguém buscá-lo.</desc>
+    <credits>
+      <director>Maurício Farias</director>
+      <actor>Andréa Beltrão,Marco Ricca,Matheus de Sá,Giulio Lopes,Andréa Dantas,Patrícia Selonik,Jorge Lucas,Thogun Teixeira</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>3.55</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260918014235 -0300" stop="20260918031921 -0300" channel="9">
+    <title lang="pt">S.O.S.: Mulheres ao Mar 2</title>
+    <desc lang="pt">Adriana segue feliz em seu romance com André, mas descobre que a ex-noiva do estilista irá acompanhá-lo em um cruzeiro pelo Caribe.</desc>
+    <credits>
+      <director>Cris D'amato</director>
+      <actor>Giovanna Antonelli,Thalita Carauta,Fabiula Nascimento,Reynaldo Gianecchini,Gil Coelho,Felipe Roque,Felipe Montanari,Rhaisa Batista</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Comédia, Romance</category>
+    <star-rating system="IMdb">
+      <value>1.625</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260918031921 -0300" stop="20260918045158 -0300" channel="9">
+    <title lang="pt">Muita Calma Nessa Hora</title>
+    <desc lang="pt">Tita, Mari e Aninha são amigas que partem para curtir um fim de semana em Búzios e encontram Estrella, uma hippie a quem dão carona.</desc>
+    <credits>
+      <director>Felipe Joffily</director>
+      <actor>Andréia Horta,Débora Lamm,Fernanda Souza,Gianne Albertoni,Laura Cardoso,Lúcio Mauro,Louise Cardoso,Marcelo Tas</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260918230500 -0300" stop="20260919003345 -0300" channel="9">
+    <title lang="pt">Magal e os Formigas</title>
+    <desc lang="pt">Um aposentado hipocondríaco começa a receber visitas sobrenaturais do cantor Sidney Magal, que o ajuda a resolver problemas familiares.</desc>
+    <date>2016</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.8</value>
+    </star-rating>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260919003345 -0300" stop="20260919015625 -0300" channel="9">
+    <title lang="pt">Federal</title>
+    <desc lang="pt">A polícia federal persegue um traficante em Brasília, retratando o Brasil como rota do narcotráfico internacional.</desc>
+    <date>2010</date>
+    <category lang="pt">Ação, Mistério</category>
+    <star-rating system="IMdb">
+      <value>2.1565</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260919015626 -0300" stop="20260919034032 -0300" channel="9">
+    <title lang="pt">Menino do Rio</title>
+    <desc lang="pt">Um surfista carioca se envolve com uma jovem da alta sociedade que esconde um segredo do passado.</desc>
+    <date>1982</date>
+    <category lang="pt">Drama, Aventura</category>
+    <star-rating system="IMdb">
+      <value>3.15</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260919034033 -0300" stop="20260919045601 -0300" channel="9">
+    <title lang="pt">Portaria 243</title>
+    <desc lang="pt">Um porteiro que sonha em ser músico se envolve em um assassinato após conhecer um cantor famoso.</desc>
+    <date>2017</date>
+    <category lang="pt">Comédia, Drama</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260919045601 -0300" stop="20260919055924 -0300" channel="9">
+    <title lang="pt">Verônica</title>
+    <desc lang="pt">Uma professora foge com um aluno após os pais dele serem mortos por traficantes ligados à polícia.</desc>
+    <date>2009</date>
+    <category lang="pt">Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>3.55</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260919074423 -0300" stop="20260919090345 -0300" channel="9">
+    <title lang="pt">EAS: Esquadrão Antissequestro</title>
+    <desc lang="pt">Um ex-agente antissequestro tenta impedir um atentado ao Maracanã durante a Copa do Mundo.</desc>
+    <date>2017</date>
+    <category lang="pt">Crime, Drama, Ação</category>
+    <star-rating system="IMdb">
+      <value>2.95</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260919090345 -0300" stop="20260919104549 -0300" channel="9">
+    <title lang="pt">Luzia Homem</title>
+    <desc lang="pt">Criada como homem no sertão após a morte dos pais, Luzia busca vingança e encontra o amor pelo caminho.</desc>
+    <date>1988</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>2.143</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260919104550 -0300" stop="20260919120830 -0300" channel="9">
+    <title lang="pt">Federal</title>
+    <desc lang="pt">A polícia federal persegue um traficante em Brasília, retratando o Brasil como rota do narcotráfico internacional.</desc>
+    <date>2010</date>
+    <category lang="pt">Ação, Mistério</category>
+    <star-rating system="IMdb">
+      <value>2.1565</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260919120831 -0300" stop="20260919132359 -0300" channel="9">
+    <title lang="pt">Portaria 243</title>
+    <desc lang="pt">Um porteiro que sonha em ser músico se envolve em um assassinato após conhecer um cantor famoso.</desc>
+    <date>2017</date>
+    <category lang="pt">Comédia, Drama</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260919132359 -0300" stop="20260919145551 -0300" channel="9">
+    <title lang="pt">Ó Paí, Ó</title>
+    <desc lang="pt">Um retrato musical e cômico da vida em um cortiço do Pelourinho, em Salvador, no último dia de Carnaval.</desc>
+    <date>2007</date>
+    <category lang="pt">Música, Comédia</category>
+    <star-rating system="IMdb">
+      <value>3.483</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260919145552 -0300" stop="20260919163238 -0300" channel="9">
+    <title lang="pt">S.O.S.: Mulheres ao Mar 2</title>
+    <desc lang="pt">Durante um cruzeiro, uma escritora reúne a irmã e uma amiga para enfrentar o retorno da ex-noiva de seu companheiro.</desc>
+    <date>2015</date>
+    <category lang="pt">Comédia, Romance</category>
+    <star-rating system="IMdb">
+      <value>1.625</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260919163238 -0300" stop="20260919181644 -0300" channel="9">
+    <title lang="pt">Menino do Rio</title>
+    <desc lang="pt">Um surfista carioca se envolve com uma jovem da alta sociedade que esconde um segredo do passado.</desc>
+    <date>1982</date>
+    <category lang="pt">Drama, Aventura</category>
+    <star-rating system="IMdb">
+      <value>3.15</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260919200144 -0300" stop="20260919212106 -0300" channel="9">
+    <title lang="pt">EAS: Esquadrão Antissequestro</title>
+    <desc lang="pt">Um ex-agente antissequestro tenta impedir um atentado ao Maracanã durante a Copa do Mundo.</desc>
+    <date>2017</date>
+    <category lang="pt">Crime, Drama, Ação</category>
+    <star-rating system="IMdb">
+      <value>2.95</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260919212106 -0300" stop="20260919230310 -0300" channel="9">
+    <title lang="pt">Luzia Homem</title>
+    <desc lang="pt">Criada como homem no sertão após a morte dos pais, Luzia busca vingança e encontra o amor pelo caminho.</desc>
+    <date>1988</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>2.143</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260919230311 -0300" stop="20260920002551 -0300" channel="9">
+    <title lang="pt">Federal</title>
+    <desc lang="pt">A polícia federal persegue um traficante em Brasília, retratando o Brasil como rota do narcotráfico internacional.</desc>
+    <date>2010</date>
+    <category lang="pt">Ação, Mistério</category>
+    <star-rating system="IMdb">
+      <value>2.1565</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260920002551 -0300" stop="20260920014119 -0300" channel="9">
+    <title lang="pt">Portaria 243</title>
+    <desc lang="pt">Um porteiro que sonha em ser músico se envolve em um assassinato após conhecer um cantor famoso.</desc>
+    <date>2017</date>
+    <category lang="pt">Comédia, Drama</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260920014120 -0300" stop="20260920031312 -0300" channel="9">
+    <title lang="pt">Ó Paí, Ó</title>
+    <desc lang="pt">Um retrato musical e cômico da vida em um cortiço do Pelourinho, em Salvador, no último dia de Carnaval.</desc>
+    <date>2007</date>
+    <category lang="pt">Música, Comédia</category>
+    <star-rating system="IMdb">
+      <value>3.483</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260920031313 -0300" stop="20260920044959 -0300" channel="9">
+    <title lang="pt">S.O.S.: Mulheres ao Mar 2</title>
+    <desc lang="pt">Durante um cruzeiro, uma escritora reúne a irmã e uma amiga para enfrentar o retorno da ex-noiva de seu companheiro.</desc>
+    <date>2015</date>
+    <category lang="pt">Comédia, Romance</category>
+    <star-rating system="IMdb">
+      <value>1.625</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260920044959 -0300" stop="20260920055924 -0300" channel="9">
+    <title lang="pt">Menino do Rio</title>
+    <desc lang="pt">Um surfista carioca se envolve com uma jovem da alta sociedade que esconde um segredo do passado.</desc>
+    <date>1982</date>
+    <category lang="pt">Drama, Aventura</category>
+    <star-rating system="IMdb">
+      <value>3.15</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260920055925 -0300" stop="20260920073028 -0300" channel="9">
+    <title lang="pt">Verônica</title>
+    <desc lang="pt">Uma professora foge com um aluno após os pais dele serem mortos por traficantes ligados à polícia.</desc>
+    <date>2009</date>
+    <category lang="pt">Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>3.55</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260920073028 -0300" stop="20260920090714 -0300" channel="9">
+    <title lang="pt">S.O.S.: Mulheres ao Mar 2</title>
+    <desc lang="pt">Durante um cruzeiro, uma escritora reúne a irmã e uma amiga para enfrentar o retorno da ex-noiva de seu companheiro.</desc>
+    <date>2015</date>
+    <category lang="pt">Comédia, Romance</category>
+    <star-rating system="IMdb">
+      <value>1.625</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260920090715 -0300" stop="20260920103907 -0300" channel="9">
+    <title lang="pt">Ó Paí, Ó</title>
+    <desc lang="pt">Um retrato musical e cômico da vida em um cortiço do Pelourinho, em Salvador, no último dia de Carnaval.</desc>
+    <date>2007</date>
+    <category lang="pt">Música, Comédia</category>
+    <star-rating system="IMdb">
+      <value>3.483</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260920103907 -0300" stop="20260920121144 -0300" channel="9">
+    <title lang="pt">Muita Calma Nessa Hora</title>
+    <desc lang="pt">Três amigas viajam a Búzios e dão carona a uma hippie em busca do pai desaparecido.</desc>
+    <date>2010</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260920134051 -0300" stop="20260920145819 -0300" channel="9">
+    <title lang="pt">Entrando Numa Roubada</title>
+    <desc lang="pt">Um ator fracassado reúne velhos colegas para produzir um filme de ação com o prêmio de um concurso de roteiros.</desc>
+    <date>2015</date>
+    <category lang="pt">Drama, Ação, Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.6</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260920145820 -0300" stop="20260920161717 -0300" channel="9">
+    <title lang="pt">Jogo de Xadrez</title>
+    <desc lang="pt">Presa por um crime de corrupção, Mina é mantida na cadeia pela influência do senador que a incriminou.</desc>
+    <date>2014</date>
+    <category lang="pt">Drama, Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>2.45</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260920175922 -0300" stop="20260920193025 -0300" channel="9">
+    <title lang="pt">Verônica</title>
+    <desc lang="pt">Uma professora foge com um aluno após os pais dele serem mortos por traficantes ligados à polícia.</desc>
+    <date>2009</date>
+    <category lang="pt">Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>3.55</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260920193026 -0300" stop="20260920210712 -0300" channel="9">
+    <title lang="pt">S.O.S.: Mulheres ao Mar 2</title>
+    <desc lang="pt">Durante um cruzeiro, uma escritora reúne a irmã e uma amiga para enfrentar o retorno da ex-noiva de seu companheiro.</desc>
+    <date>2015</date>
+    <category lang="pt">Comédia, Romance</category>
+    <star-rating system="IMdb">
+      <value>1.625</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260920210712 -0300" stop="20260920223904 -0300" channel="9">
+    <title lang="pt">Ó Paí, Ó</title>
+    <desc lang="pt">Um retrato musical e cômico da vida em um cortiço do Pelourinho, em Salvador, no último dia de Carnaval.</desc>
+    <date>2007</date>
+    <category lang="pt">Música, Comédia</category>
+    <star-rating system="IMdb">
+      <value>3.483</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260920223905 -0300" stop="20260921001142 -0300" channel="9">
+    <title lang="pt">Muita Calma Nessa Hora</title>
+    <desc lang="pt">Três amigas viajam a Búzios e dão carona a uma hippie em busca do pai desaparecido.</desc>
+    <date>2010</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260921014049 -0300" stop="20260921025817 -0300" channel="9">
+    <title lang="pt">Entrando Numa Roubada</title>
+    <desc lang="pt">Um ator fracassado reúne velhos colegas para produzir um filme de ação com o prêmio de um concurso de roteiros.</desc>
+    <date>2015</date>
+    <category lang="pt">Drama, Ação, Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.6</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260921025817 -0300" stop="20260921041714 -0300" channel="9">
+    <title lang="pt">Jogo de Xadrez</title>
+    <desc lang="pt">Presa por um crime de corrupção, Mina é mantida na cadeia pela influência do senador que a incriminou.</desc>
+    <date>2014</date>
+    <category lang="pt">Drama, Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>2.45</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260921055925 -0300" stop="20260921071453 -0300" channel="9">
+    <title lang="pt">Portaria 243</title>
+    <desc lang="pt">Um porteiro que sonha em ser músico se envolve em um assassinato após conhecer um cantor famoso.</desc>
+    <date>2017</date>
+    <category lang="pt">Comédia, Drama</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260921071453 -0300" stop="20260921085859 -0300" channel="9">
+    <title lang="pt">Menino do Rio</title>
+    <desc lang="pt">Um surfista carioca se envolve com uma jovem da alta sociedade que esconde um segredo do passado.</desc>
+    <date>1982</date>
+    <category lang="pt">Drama, Aventura</category>
+    <star-rating system="IMdb">
+      <value>3.15</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260921085859 -0300" stop="20260921104103 -0300" channel="9">
+    <title lang="pt">Luzia Homem</title>
+    <desc lang="pt">Criada como homem no sertão após a morte dos pais, Luzia busca vingança e encontra o amor pelo caminho.</desc>
+    <date>1988</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>2.143</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260921104104 -0300" stop="20260921120949 -0300" channel="9">
+    <title lang="pt">Magal e os Formigas</title>
+    <desc lang="pt">Um aposentado hipocondríaco começa a receber visitas sobrenaturais do cantor Sidney Magal, que o ajuda a resolver problemas familiares.</desc>
+    <date>2016</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.8</value>
+    </star-rating>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260921120950 -0300" stop="20260921134142 -0300" channel="9">
+    <title lang="pt">Ó Paí, Ó</title>
+    <desc lang="pt">Um retrato musical e cômico da vida em um cortiço do Pelourinho, em Salvador, no último dia de Carnaval.</desc>
+    <date>2007</date>
+    <category lang="pt">Música, Comédia</category>
+    <star-rating system="IMdb">
+      <value>3.483</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260921182126 -0300" stop="20260921193654 -0300" channel="9">
+    <title lang="pt">Portaria 243</title>
+    <desc lang="pt">Um porteiro que sonha em ser músico se envolve em um assassinato após conhecer um cantor famoso.</desc>
+    <date>2017</date>
+    <category lang="pt">Comédia, Drama</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260921193654 -0300" stop="20260921212100 -0300" channel="9">
+    <title lang="pt">Menino do Rio</title>
+    <desc lang="pt">Um surfista carioca se envolve com uma jovem da alta sociedade que esconde um segredo do passado.</desc>
+    <date>1982</date>
+    <category lang="pt">Drama, Aventura</category>
+    <star-rating system="IMdb">
+      <value>3.15</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260921212101 -0300" stop="20260921230305 -0300" channel="9">
+    <title lang="pt">Luzia Homem</title>
+    <desc lang="pt">Criada como homem no sertão após a morte dos pais, Luzia busca vingança e encontra o amor pelo caminho.</desc>
+    <date>1988</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>2.143</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260921230306 -0300" stop="20260922003151 -0300" channel="9">
+    <title lang="pt">Magal e os Formigas</title>
+    <desc lang="pt">Um aposentado hipocondríaco começa a receber visitas sobrenaturais do cantor Sidney Magal, que o ajuda a resolver problemas familiares.</desc>
+    <date>2016</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.8</value>
+    </star-rating>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260922003152 -0300" stop="20260922020344 -0300" channel="9">
+    <title lang="pt">Ó Paí, Ó</title>
+    <desc lang="pt">Um retrato musical e cômico da vida em um cortiço do Pelourinho, em Salvador, no último dia de Carnaval.</desc>
+    <date>2007</date>
+    <category lang="pt">Música, Comédia</category>
+    <star-rating system="IMdb">
+      <value>3.483</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260922112420 -0300" stop="20260922121038 -0300" channel="9">
+    <title lang="pt">O Sequestro de Vitor</title>
+    <desc lang="pt">Vitor desaparece misteriosamente durante férias na casa do primo, e os moradores saem à sua procura.</desc>
+    <date>2022</date>
+    <category lang="pt">Família</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260922230111 -0300" stop="20260923002951 -0300" channel="9">
+    <title lang="pt">Entre Mulheres</title>
+    <desc lang="pt">Mulheres de uma comunidade menonita isolada lidam com as consequências de abusos cometidos pelos homens da colônia.</desc>
+    <date>2022</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>1.71</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260923055925 -0300" stop="20260923072917 -0300" channel="9">
+    <title lang="pt">A Noa - A Nova Onda Apocalipse</title>
+    <desc lang="pt">Durante uma nova pandemia mundial, só quem tem crédito consegue embarcar num trem rumo a um local seguro.</desc>
+    <date>2023</date>
+    <category lang="pt">Drama</category>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260923072917 -0300" stop="20260923085446 -0300" channel="9">
+    <title lang="pt">Além da Paixão</title>
+    <desc lang="pt">Uma mulher casada se envolve com um garoto de programa após um acidente de trânsito, numa viagem que muda os planos de ambos.</desc>
+    <date>1985</date>
+    <category lang="pt">Romance, Drama</category>
+    <star-rating system="IMdb">
+      <value>2.3125</value>
+    </star-rating>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20260923085446 -0300" stop="20260923103756 -0300" channel="9">
+    <title lang="pt">Cabeça a Prêmio</title>
+    <desc lang="pt">Três histórias se cruzam na fronteira entre Brasil, Paraguai e Bolívia, envolvendo um contrabandista, sua filha e um pistoleiro.</desc>
+    <date>2010</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>1.5</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260923103756 -0300" stop="20260923115718 -0300" channel="9">
+    <title lang="pt">EAS: Esquadrão Antissequestro</title>
+    <desc lang="pt">Um ex-agente antissequestro tenta impedir um atentado ao Maracanã durante a Copa do Mundo.</desc>
+    <date>2017</date>
+    <category lang="pt">Crime, Drama, Ação</category>
+    <star-rating system="IMdb">
+      <value>2.95</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260923115718 -0300" stop="20260923131446 -0300" channel="9">
+    <title lang="pt">Entrando Numa Roubada</title>
+    <desc lang="pt">Um ator fracassado reúne velhos colegas para produzir um filme de ação com o prêmio de um concurso de roteiros.</desc>
+    <date>2015</date>
+    <category lang="pt">Drama, Ação, Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.6</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260923131447 -0300" stop="20260923143727 -0300" channel="9">
+    <title lang="pt">Federal</title>
+    <desc lang="pt">A polícia federal persegue um traficante em Brasília, retratando o Brasil como rota do narcotráfico internacional.</desc>
+    <date>2010</date>
+    <category lang="pt">Ação, Mistério</category>
+    <star-rating system="IMdb">
+      <value>2.1565</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260923143728 -0300" stop="20260923161932 -0300" channel="9">
+    <title lang="pt">Luzia Homem</title>
+    <desc lang="pt">Criada como homem no sertão após a morte dos pais, Luzia busca vingança e encontra o amor pelo caminho.</desc>
+    <date>1988</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>2.143</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260923161932 -0300" stop="20260923173829 -0300" channel="9">
+    <title lang="pt">Jogo de Xadrez</title>
+    <desc lang="pt">Presa por um crime de corrupção, Mina é mantida na cadeia pela influência do senador que a incriminou.</desc>
+    <date>2014</date>
+    <category lang="pt">Drama, Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>2.45</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260923192035 -0300" stop="20260923204920 -0300" channel="9">
+    <title lang="pt">Magal e os Formigas</title>
+    <desc lang="pt">Um aposentado hipocondríaco começa a receber visitas sobrenaturais do cantor Sidney Magal, que o ajuda a resolver problemas familiares.</desc>
+    <date>2016</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.8</value>
+    </star-rating>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260923204921 -0300" stop="20260923223327 -0300" channel="9">
+    <title lang="pt">Menino do Rio</title>
+    <desc lang="pt">Um surfista carioca se envolve com uma jovem da alta sociedade que esconde um segredo do passado.</desc>
+    <date>1982</date>
+    <category lang="pt">Drama, Aventura</category>
+    <star-rating system="IMdb">
+      <value>3.15</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260923223328 -0300" stop="20260924001131 -0300" channel="9">
+    <title lang="pt">Meu Pé de Laranja Lima</title>
+    <desc lang="pt">Um garoto de oito anos encontra em um senhor idoso um novo amigo, em meio às dificuldades da família.</desc>
+    <date>2013</date>
+    <category lang="pt">Drama, Família</category>
+    <star-rating system="IMdb">
+      <value>3.7</value>
+    </star-rating>
+    <rating>
+      <value>10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20260924001131 -0300" stop="20260924014234 -0300" channel="9">
+    <title lang="pt">Verônica</title>
+    <desc lang="pt">Uma professora foge com um aluno após os pais dele serem mortos por traficantes ligados à polícia.</desc>
+    <date>2009</date>
+    <category lang="pt">Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>3.55</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260924014235 -0300" stop="20260924031921 -0300" channel="9">
+    <title lang="pt">S.O.S.: Mulheres ao Mar 2</title>
+    <desc lang="pt">Durante um cruzeiro, uma escritora reúne a irmã e uma amiga para enfrentar o retorno da ex-noiva de seu companheiro.</desc>
+    <date>2015</date>
+    <category lang="pt">Comédia, Romance</category>
+    <star-rating system="IMdb">
+      <value>1.625</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260924031921 -0300" stop="20260924045158 -0300" channel="9">
+    <title lang="pt">Muita Calma Nessa Hora</title>
+    <desc lang="pt">Três amigas viajam a Búzios e dão carona a uma hippie em busca do pai desaparecido.</desc>
+    <date>2010</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260924045159 -0300" stop="20260924055924 -0300" channel="9">
+    <title lang="pt">Portaria 243</title>
+    <desc lang="pt">Um porteiro que sonha em ser músico se envolve em um assassinato após conhecer um cantor famoso.</desc>
+    <date>2017</date>
+    <category lang="pt">Comédia, Drama</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260924074423 -0300" stop="20260924090345 -0300" channel="9">
+    <title lang="pt">EAS: Esquadrão Antissequestro</title>
+    <desc lang="pt">Um ex-agente antissequestro tenta impedir um atentado ao Maracanã durante a Copa do Mundo.</desc>
+    <date>2017</date>
+    <category lang="pt">Crime, Drama, Ação</category>
+    <star-rating system="IMdb">
+      <value>2.95</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260924090345 -0300" stop="20260924104549 -0300" channel="9">
+    <title lang="pt">Luzia Homem</title>
+    <desc lang="pt">Criada como homem no sertão após a morte dos pais, Luzia busca vingança e encontra o amor pelo caminho.</desc>
+    <date>1988</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>2.143</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260924104550 -0300" stop="20260924120830 -0300" channel="9">
+    <title lang="pt">Federal</title>
+    <desc lang="pt">A polícia federal persegue um traficante em Brasília, retratando o Brasil como rota do narcotráfico internacional.</desc>
+    <date>2010</date>
+    <category lang="pt">Ação, Mistério</category>
+    <star-rating system="IMdb">
+      <value>2.1565</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260924120831 -0300" stop="20260924132359 -0300" channel="9">
+    <title lang="pt">Portaria 243</title>
+    <desc lang="pt">Um porteiro que sonha em ser músico se envolve em um assassinato após conhecer um cantor famoso.</desc>
+    <date>2017</date>
+    <category lang="pt">Comédia, Drama</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260924132359 -0300" stop="20260924145551 -0300" channel="9">
+    <title lang="pt">Ó Paí, Ó</title>
+    <desc lang="pt">Um retrato musical e cômico da vida em um cortiço do Pelourinho, em Salvador, no último dia de Carnaval.</desc>
+    <date>2007</date>
+    <category lang="pt">Música, Comédia</category>
+    <star-rating system="IMdb">
+      <value>3.483</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260924145552 -0300" stop="20260924163238 -0300" channel="9">
+    <title lang="pt">S.O.S.: Mulheres ao Mar 2</title>
+    <desc lang="pt">Durante um cruzeiro, uma escritora reúne a irmã e uma amiga para enfrentar o retorno da ex-noiva de seu companheiro.</desc>
+    <date>2015</date>
+    <category lang="pt">Comédia, Romance</category>
+    <star-rating system="IMdb">
+      <value>1.625</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260924163238 -0300" stop="20260924181644 -0300" channel="9">
+    <title lang="pt">Menino do Rio</title>
+    <desc lang="pt">Um surfista carioca se envolve com uma jovem da alta sociedade que esconde um segredo do passado.</desc>
+    <date>1982</date>
+    <category lang="pt">Drama, Aventura</category>
+    <star-rating system="IMdb">
+      <value>3.15</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260924200144 -0300" stop="20260924212106 -0300" channel="9">
+    <title lang="pt">EAS: Esquadrão Antissequestro</title>
+    <desc lang="pt">Um ex-agente antissequestro tenta impedir um atentado ao Maracanã durante a Copa do Mundo.</desc>
+    <date>2017</date>
+    <category lang="pt">Crime, Drama, Ação</category>
+    <star-rating system="IMdb">
+      <value>2.95</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260924212106 -0300" stop="20260924230310 -0300" channel="9">
+    <title lang="pt">Luzia Homem</title>
+    <desc lang="pt">Criada como homem no sertão após a morte dos pais, Luzia busca vingança e encontra o amor pelo caminho.</desc>
+    <date>1988</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>2.143</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260924230311 -0300" stop="20260925002551 -0300" channel="9">
+    <title lang="pt">Federal</title>
+    <desc lang="pt">A polícia federal persegue um traficante em Brasília, retratando o Brasil como rota do narcotráfico internacional.</desc>
+    <date>2010</date>
+    <category lang="pt">Ação, Mistério</category>
+    <star-rating system="IMdb">
+      <value>2.1565</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260925002551 -0300" stop="20260925014119 -0300" channel="9">
+    <title lang="pt">Portaria 243</title>
+    <desc lang="pt">Um porteiro que sonha em ser músico se envolve em um assassinato após conhecer um cantor famoso.</desc>
+    <date>2017</date>
+    <category lang="pt">Comédia, Drama</category>
+    <star-rating system="IMdb">
+      <value>3</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260925014120 -0300" stop="20260925031312 -0300" channel="9">
+    <title lang="pt">Ó Paí, Ó</title>
+    <desc lang="pt">Um retrato musical e cômico da vida em um cortiço do Pelourinho, em Salvador, no último dia de Carnaval.</desc>
+    <date>2007</date>
+    <category lang="pt">Música, Comédia</category>
+    <star-rating system="IMdb">
+      <value>3.483</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260925031313 -0300" stop="20260925044959 -0300" channel="9">
+    <title lang="pt">S.O.S.: Mulheres ao Mar 2</title>
+    <desc lang="pt">Durante um cruzeiro, uma escritora reúne a irmã e uma amiga para enfrentar o retorno da ex-noiva de seu companheiro.</desc>
+    <date>2015</date>
+    <category lang="pt">Comédia, Romance</category>
+    <star-rating system="IMdb">
+      <value>1.625</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260925044959 -0300" stop="20260925055924 -0300" channel="9">
+    <title lang="pt">Menino do Rio</title>
+    <desc lang="pt">Um surfista carioca se envolve com uma jovem da alta sociedade que esconde um segredo do passado.</desc>
+    <date>1982</date>
+    <category lang="pt">Drama, Aventura</category>
+    <star-rating system="IMdb">
+      <value>3.15</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260925055925 -0300" stop="20260925072917 -0300" channel="9">
+    <title lang="pt">A Noa - A Nova Onda Apocalipse</title>
+    <desc lang="pt">Durante uma nova pandemia mundial, só quem tem crédito consegue embarcar num trem rumo a um local seguro.</desc>
+    <date>2023</date>
+    <category lang="pt">Drama</category>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260925072917 -0300" stop="20260925085446 -0300" channel="9">
+    <title lang="pt">Além da Paixão</title>
+    <desc lang="pt">Uma mulher casada se envolve com um garoto de programa após um acidente de trânsito, numa viagem que muda os planos de ambos.</desc>
+    <date>1985</date>
+    <category lang="pt">Romance, Drama</category>
+    <star-rating system="IMdb">
+      <value>2.3125</value>
+    </star-rating>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20260925085446 -0300" stop="20260925103756 -0300" channel="9">
+    <title lang="pt">Cabeça a Prêmio</title>
+    <desc lang="pt">Três histórias se cruzam na fronteira entre Brasil, Paraguai e Bolívia, envolvendo um contrabandista, sua filha e um pistoleiro.</desc>
+    <date>2010</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>1.5</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260925103756 -0300" stop="20260925115718 -0300" channel="9">
+    <title lang="pt">EAS: Esquadrão Antissequestro</title>
+    <desc lang="pt">Um ex-agente antissequestro tenta impedir um atentado ao Maracanã durante a Copa do Mundo.</desc>
+    <date>2017</date>
+    <category lang="pt">Crime, Drama, Ação</category>
+    <star-rating system="IMdb">
+      <value>2.95</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260925115718 -0300" stop="20260925131446 -0300" channel="9">
+    <title lang="pt">Entrando Numa Roubada</title>
+    <desc lang="pt">Um ator fracassado reúne velhos colegas para produzir um filme de ação com o prêmio de um concurso de roteiros.</desc>
+    <date>2015</date>
+    <category lang="pt">Drama, Ação, Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.6</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260925131447 -0300" stop="20260925143727 -0300" channel="9">
+    <title lang="pt">Federal</title>
+    <desc lang="pt">A polícia federal persegue um traficante em Brasília, retratando o Brasil como rota do narcotráfico internacional.</desc>
+    <date>2010</date>
+    <category lang="pt">Ação, Mistério</category>
+    <star-rating system="IMdb">
+      <value>2.1565</value>
+    </star-rating>
+    <rating>
+      <value />
+    </rating>
+  </programme>
+  <programme start="20260925143728 -0300" stop="20260925161932 -0300" channel="9">
+    <title lang="pt">Luzia Homem</title>
+    <desc lang="pt">Criada como homem no sertão após a morte dos pais, Luzia busca vingança e encontra o amor pelo caminho.</desc>
+    <date>1988</date>
+    <category lang="pt">Drama</category>
+    <star-rating system="IMdb">
+      <value>2.143</value>
+    </star-rating>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260925161932 -0300" stop="20260925173829 -0300" channel="9">
+    <title lang="pt">Jogo de Xadrez</title>
+    <desc lang="pt">Presa por um crime de corrupção, Mina é mantida na cadeia pela influência do senador que a incriminou.</desc>
+    <date>2014</date>
+    <category lang="pt">Drama, Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>2.45</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260925192035 -0300" stop="20260925204920 -0300" channel="9">
+    <title lang="pt">Magal e os Formigas</title>
+    <desc lang="pt">Um aposentado hipocondríaco começa a receber visitas sobrenaturais do cantor Sidney Magal, que o ajuda a resolver problemas familiares.</desc>
+    <date>2016</date>
+    <category lang="pt">Comédia</category>
+    <star-rating system="IMdb">
+      <value>2.8</value>
+    </star-rating>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260925204921 -0300" stop="20260925223327 -0300" channel="9">
+    <title lang="pt">Menino do Rio</title>
+    <desc lang="pt">Um surfista carioca se envolve com uma jovem da alta sociedade que esconde um segredo do passado.</desc>
+    <date>1982</date>
+    <category lang="pt">Drama, Aventura</category>
+    <star-rating system="IMdb">
+      <value>3.15</value>
+    </star-rating>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260925223328 -0300" stop="20260926001131 -0300" channel="9">
+    <title lang="pt">Meu Pé de Laranja Lima</title>
+    <desc lang="pt">Um garoto de oito anos encontra em um senhor idoso um novo amigo, em meio às dificuldades da família.</desc>
+    <date>2013</date>
+    <category lang="pt">Drama, Família</category>
+    <star-rating system="IMdb">
+      <value>3.7</value>
+    </star-rating>
+    <rating>
+      <value>10 anos</value>
+    </rating>
+  </programme>
+  <programme start="20260926001131 -0300" stop="20260926014234 -0300" channel="9">
+    <title lang="pt">Verônica</title>
+    <desc lang="pt">Uma professora foge com um aluno após os pais dele serem mortos por traficantes ligados à polícia.</desc>
+    <date>2009</date>
+    <category lang="pt">Ação, Crime</category>
+    <star-rating system="IMdb">
+      <value>3.55</value>
+    </star-rating>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <channel id="4">
+    <display-name lang="pt">Hallo Doc</display-name>
+    <icon src="https://hallo.tv.br/icons/doc.png" />
+    <url>http://www.hallo.tv.br</url>
+  </channel>
+  <programme start="20260915222627 -0300" stop="20260916002627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916002627 -0300" stop="20260916022627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916022627 -0300" stop="20260916042627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916042627 -0300" stop="20260916062627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916062627 -0300" stop="20260916082627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916082627 -0300" stop="20260916102627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916102627 -0300" stop="20260916122627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916122627 -0300" stop="20260916142627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916142627 -0300" stop="20260916162627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916162627 -0300" stop="20260916182627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916182627 -0300" stop="20260916202627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916202627 -0300" stop="20260916222627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916222627 -0300" stop="20260917002627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917002627 -0300" stop="20260917022627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917022627 -0300" stop="20260917042627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917042627 -0300" stop="20260917062627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917062627 -0300" stop="20260917082627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917082627 -0300" stop="20260917102627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917102627 -0300" stop="20260917122627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917122627 -0300" stop="20260917142627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917142627 -0300" stop="20260917162627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917162627 -0300" stop="20260917182627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917182627 -0300" stop="20260917202627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917202627 -0300" stop="20260917222627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917222627 -0300" stop="20260918002627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918002627 -0300" stop="20260918022627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918022627 -0300" stop="20260918042627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918042627 -0300" stop="20260918062627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918062627 -0300" stop="20260918082627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918082627 -0300" stop="20260918102627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918102627 -0300" stop="20260918122627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918122627 -0300" stop="20260918142627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918142627 -0300" stop="20260918162627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918162627 -0300" stop="20260918182627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918182627 -0300" stop="20260918202627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918202627 -0300" stop="20260918222627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918222627 -0300" stop="20260919002627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919002627 -0300" stop="20260919022627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919022627 -0300" stop="20260919042627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919042627 -0300" stop="20260919062627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919062627 -0300" stop="20260919082627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919082627 -0300" stop="20260919102627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919102627 -0300" stop="20260919122627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919122627 -0300" stop="20260919142627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919142627 -0300" stop="20260919162627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919162627 -0300" stop="20260919182627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919182627 -0300" stop="20260919202627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919202627 -0300" stop="20260919222627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919222627 -0300" stop="20260920002627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920002627 -0300" stop="20260920022627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920022627 -0300" stop="20260920042627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920042627 -0300" stop="20260920062627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920062627 -0300" stop="20260920082627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920082627 -0300" stop="20260920102627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920102627 -0300" stop="20260920122627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920122627 -0300" stop="20260920142627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920142627 -0300" stop="20260920162627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920162627 -0300" stop="20260920182627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920182627 -0300" stop="20260920202627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260920202627 -0300" stop="20260920222627 -0300" channel="4">
+    <title lang="pt">Documentário Especial</title>
+    <desc lang="pt">Um documentário informativo e instigante.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <channel id="10">
+    <display-name lang="pt">Hallo Music</display-name>
+    <icon src="https://hallo.tv.br/icons/music.png" />
+    <url>http://www.hallo.tv.br</url>
+  </channel>
+  <programme start="20260914215613 -0300" stop="20260914235613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260914235613 -0300" stop="20260915015613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915015613 -0300" stop="20260915035613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915035613 -0300" stop="20260915055613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915055613 -0300" stop="20260915075613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915075613 -0300" stop="20260915095613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915095613 -0300" stop="20260915115613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915115613 -0300" stop="20260915135613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915135613 -0300" stop="20260915155613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915155613 -0300" stop="20260915175613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915175613 -0300" stop="20260915195613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915195613 -0300" stop="20260915215613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915215613 -0300" stop="20260915235613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260915235613 -0300" stop="20260916015613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916015613 -0300" stop="20260916035613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916035613 -0300" stop="20260916055613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916055613 -0300" stop="20260916075613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916075613 -0300" stop="20260916095613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916095613 -0300" stop="20260916115613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916115613 -0300" stop="20260916135613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916135613 -0300" stop="20260916155613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916155613 -0300" stop="20260916175613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916175613 -0300" stop="20260916195613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916195613 -0300" stop="20260916215613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916215613 -0300" stop="20260916235613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260916235613 -0300" stop="20260917015613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917015613 -0300" stop="20260917035613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917035613 -0300" stop="20260917055613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917055613 -0300" stop="20260917075613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917075613 -0300" stop="20260917095613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917095613 -0300" stop="20260917115613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917115613 -0300" stop="20260917135613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917135613 -0300" stop="20260917155613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917155613 -0300" stop="20260917175613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917175613 -0300" stop="20260917195613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917195613 -0300" stop="20260917215613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917215613 -0300" stop="20260917235613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260917235613 -0300" stop="20260918015613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918015613 -0300" stop="20260918035613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918035613 -0300" stop="20260918055613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918055613 -0300" stop="20260918075613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918075613 -0300" stop="20260918095613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918095613 -0300" stop="20260918115613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918115613 -0300" stop="20260918135613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918135613 -0300" stop="20260918155613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918155613 -0300" stop="20260918175613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918175613 -0300" stop="20260918195613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918195613 -0300" stop="20260918215613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918215613 -0300" stop="20260918235613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260918235613 -0300" stop="20260919015613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919015613 -0300" stop="20260919035613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919035613 -0300" stop="20260919055613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919055613 -0300" stop="20260919075613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919075613 -0300" stop="20260919095613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919095613 -0300" stop="20260919115613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919115613 -0300" stop="20260919135613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919135613 -0300" stop="20260919155613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919155613 -0300" stop="20260919175613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919175613 -0300" stop="20260919195613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+  <programme start="20260919195613 -0300" stop="20260919215613 -0300" channel="10">
+    <title lang="pt">Top Hits Music</title>
+    <desc lang="pt">Os melhores clipes musicais do momento.</desc>
+    <category lang="pt">Diversos</category>
+    <rating>
+      <value>Livre</value>
+    </rating>
+  </programme>
+</tv>
